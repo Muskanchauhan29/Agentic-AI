@@ -1,0 +1,31 @@
+Their are two types of memory -
+ 1. Short term memory (STM)
+ 2. Long term memory (LTM)
+
+STM -> it holds only when the session is ongoing, while the task is getting performed
+LTM -> it stays forever 
+       like your name
+       like your age 
+(MongoDB, Qdrant, Graph)
+
+3 types of LTM which is good for storing data for long time ->
+
+1. Factual memory -> What kind of memory which we always want to retrieve
+-> Its like facts about user 
+like -> name, age, location 
+this is always there is context
+its short form of answer
+
+
+2. Episodic memory -> What kind of memory we retrieve on demand 
+-> information about previous interaction 
+it fetch from db and give user the answer 
+
+
+3. semantic memory -> Stores the Data in memory over time
+Its kind of General information 
+real world memory kinda
+
+
+
+Next step set up Mem0
